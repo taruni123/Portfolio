@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&family=Roboto:wght@100&display=swap');
+
+.main{
+    padding: 15px;
+    font-family: 'Roboto';
+}
+.main h2{
+    padding-top: 20px;
+}
+p{
+    padding-top: 10px;
+}
+.skillItem{
+    padding-top: 15px;
+    padding-left: 25px;
+    display: flex;
+    align-items: center;
+}
+.skill{
+    width: 300px;
+    height: 15px;
+    background-color: green;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+/* .hundred{
+    width: 300px;
+   
+} */
+.T5{
+    width: 75px;
+    background-color: blueviolet;
+}
+.fifty{
+    width: 150px;
+    background-color: chocolate;
+}
+.T75{
+    width: 170px;
+    background-color:greenyellow;
+}
+.project{
+    display: flex;
+}
+.project img{
+    height: 150px;
+    width: 200px;
+    margin-right: 100px;
+}
+.project p{
+    margin-right: 50px;
+}
